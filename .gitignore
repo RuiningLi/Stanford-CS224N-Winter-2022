@@ -4,7 +4,7 @@
 # Data-related
 datasets/
 data/
-result/
+results/
 
 .vscode
 .ipynb_checkpoints
