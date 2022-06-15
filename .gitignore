@@ -1,6 +1,11 @@
 .DS_Store
 *.npy
-datasets
+
+# Data-related
+datasets/
+data/
+result/
+
 .vscode
 .ipynb_checkpoints
 
