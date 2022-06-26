@@ -12,6 +12,7 @@ model.bin.optim
 *.vocab
 vocab.json
 
+outputs/
 .vscode/
 .ipynb_checkpoints
 
