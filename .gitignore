@@ -6,11 +6,13 @@ datasets/
 data/
 results/
 runs/
+model.bin
+model.bin.optim
 *.model
 *.vocab
 vocab.json
 
-.vscode
+.vscode/
 .ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
