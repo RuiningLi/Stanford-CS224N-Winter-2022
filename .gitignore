@@ -5,10 +5,7 @@
 datasets/
 data/
 results/
-chr_en_data/
-outputs/
 runs/
-sanity_check_en_es_data/
 *.model
 *.vocab
 vocab.json
